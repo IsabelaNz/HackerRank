@@ -3,7 +3,7 @@ import java.util.*;
 import java.io.*;
 
 public class _08_JavaDataTypes {
-    // o nome da classe estará como public class Solution
+    // o nome da classe estará como Solution
 
     public static void main(String []argh) {
         Scanner sc = new Scanner(System.in);

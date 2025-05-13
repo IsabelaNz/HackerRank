@@ -2,7 +2,7 @@ package algoritmos.easy;
 import java.util.Scanner;
 
 public class _04_JavaStdinAndStdout2 {
-    // o nome da classe estará como public class Solution
+    // o nome da classe estará como Solution
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

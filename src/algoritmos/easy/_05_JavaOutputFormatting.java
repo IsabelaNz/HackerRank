@@ -2,7 +2,7 @@ package algoritmos.easy;
 import java.util.Scanner;
 
 public class _05_JavaOutputFormatting {
-    // o nome da classe estará como public class Solution
+    // o nome da classe estará como Solution
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

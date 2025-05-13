@@ -11,7 +11,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class _03_Java_If_Else {
-    // o nome da classe estará como public class Solution
+    // o nome da classe estará como Solution
 
     private static final Scanner scanner = new Scanner(System.in);
 

@@ -1,7 +1,7 @@
 package algoritmos.easy;
 
 public class _01_WelcomeToJava {
-    // o nome da classe estará como public class Solution
+    // o nome da classe estará como Solution
 
     public static void main(String[] args) {
         /* Enter your code here. Print output to STDOUT. Your class should be named Solution. */

@@ -12,7 +12,7 @@ import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
 public class _06_JavaLoops1 {
-    // o nome da classe estará como public class Solution
+    // o nome da classe estará como Solution
 
     public class Solution {
         public static void main(String[] args) throws IOException {
