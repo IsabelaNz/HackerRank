@@ -2,7 +2,7 @@ package algoritmos.easy;
 
 import java.util.Scanner;
 
-public class _1_JavaStaticInitializerBlock {
+public class _10_JavaStaticInitializerBlock {
     // o nome da classe estará como Solution
 
     static Scanner input = new Scanner(System.in);
