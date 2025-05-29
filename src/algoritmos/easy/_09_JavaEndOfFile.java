@@ -1,12 +1,8 @@
 package algoritmos.easy;
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
-public class _9_JavaEndOfFile {
+public class _09_JavaEndOfFile {
     // o nome da classe estará como Solution
     public static void main(String[] args) {
 
